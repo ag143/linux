@@ -12,3 +12,10 @@ use sudo for admin previleges
 
 followed this for maven installation 
 https://medium.com/@sarathkumarsivan/install-apache-maven-on-suse-linux-enterprise-server-4e411086f52e
+
+
+#Ubuntu linux
+- change terminal hostname temporarily
+- > sudo hostname <new hostname>
+  > - sudo hostname localhost
+  > - bash
